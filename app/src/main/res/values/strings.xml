@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">q1_refactor</string>
+    <string name="q1" >Tehran is Capital of Iran.</string>
+    <string name="q2" >Iran is cold country.</string>
+    <string name="q3" >Dimeler is German company.</string>
+    <string name="q4" >Russia is the widest country of the world.</string>
+    <string name="q5" >Atlass is widest osean of the world.</string>
+    <string name="q6" >Gereham Bel is inventor of telephone.</string>
+    <string name="q7" >Thomas Edison is inventor of airplane.</string>
+    <string name="q8" >Penguins can fly.</string>
+    <string name="q9" >sqrt(x) * sqrt(x) = x</string>
+    <string name="q10" >if sqrt(x)/x = 1/4 ===>  x = 16</string>
+</resources>
